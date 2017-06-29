@@ -1,0 +1,9 @@
+Instalación del Proyecto:
+
+Carpeta del sistema: pruebaAITE
+
+1. La carpeta se debe poner en htdocs.
+2. El archivo de la base de datos está en la carpeta "basedatos" y se llama: aitepractica
+3. Se crea una base de datos llamada 'aitepractica' y se importa el archivo.
+4. El sitio se accede en el navegador desde: localhost/pruebaAITE.
+5. En el pagina inicial:  usuario: admin  y contraseña: 12345   (se puede ver en la tabla user de la base de datos)
